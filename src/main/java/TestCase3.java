@@ -17,7 +17,7 @@ import wrappers.ProjectSpecificWrappers;
 		browserName="chrome";
 		dataSheetName="TC003";
 		category="Smoke";
-		authors="Ashraf";
+		authors="Sarwar";
 	}
 	
 	@Test(dataProvider="fetchData")
